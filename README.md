@@ -3,4 +3,4 @@ Using Puredata and a Raspberry Pi to create different types of distortion effect
 
 Final project for MUS 207: Music, Science, and Computers
 
-See a demonstration [here](https://drive.google.com/file/d/14IP1LD_v4OGWnBHqKbJ_eLyoRuGKbDl1/view?usp=sharing)
+See the presentation video [here](https://drive.google.com/file/d/14IP1LD_v4OGWnBHqKbJ_eLyoRuGKbDl1/view?usp=sharing)
